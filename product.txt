@@ -1,0 +1,6 @@
+computer 
+laptop
+wifi
+router
+keypad
+mobile
